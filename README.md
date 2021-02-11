@@ -7,7 +7,7 @@
 [npm](https://www.npmjs.com/package/@schascha/eslint-config)
 
 ```
-npm install @schascha/stylelint-config --save-dev
+npm install @schascha/eslint-config --save-dev
 ```
 
 ### Usage
