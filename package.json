@@ -1,11 +1,11 @@
 {
   "name": "@schascha/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just a custom eslint config",
   "main": "index.js",
-"scripts": {
-	"test": "node test/index.js"
-},
+  "scripts": {
+    "test": "node test/index.js"
+  },
   "author": "Sascha Künstler <contact.schascha@gmail.com> (http://www.schaschaweb.de)",
   "license": "MIT",
   "keywords": [
