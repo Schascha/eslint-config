@@ -1,6 +1,6 @@
 # eslint-config
 
->Just a custom eslint config
+> Just a custom eslint config
 
 ## Installation
 
