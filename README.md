@@ -1,5 +1,7 @@
 # eslint-config
 
+![Build](https://github.com/Schascha/eslint-config/workflows/Build/badge.svg)
+
 > Just a custom eslint config
 
 ## Installation
