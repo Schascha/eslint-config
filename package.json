@@ -1,0 +1,24 @@
+{
+  "name": "@schascha/eslint-config",
+  "version": "0.0.1",
+  "description": "Just a custom eslint config",
+  "main": "index.js",
+  "author": "Sascha Künstler <contact.schascha@gmail.com> (http://www.schaschaweb.de)",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "funding": "https://www.paypal.me/LosZahlos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schascha/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Schascha/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Schascha/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
