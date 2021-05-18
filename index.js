@@ -13,6 +13,7 @@ module.exports = {
 			}
 		],
 		'semi': 'error',
-		'semi-spacing': 'error'
+		'semi-spacing': 'error',
+		'space-before-function-paren': ['error', 'never']
 	}
 };
