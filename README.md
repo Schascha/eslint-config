@@ -34,4 +34,4 @@ Support this project and [others](https://github.com/Schascha?tab=repositories) 
 
 [MIT](./LICENSE)
 
-Copyright (c) 2020 Sascha Künstler
+Copyright (c) 2021 Sascha Künstler
