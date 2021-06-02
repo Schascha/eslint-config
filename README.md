@@ -1,6 +1,7 @@
 # eslint-config
 
-![Build](https://github.com/Schascha/eslint-config/workflows/Build/badge.svg)
+[![Build](https://github.com/Schascha/eslint-config/workflows/Build/badge.svg)](https://github.com/Schascha/eslint-config/actions)
+[![npm](https://img.shields.io/npm/v/@schascha/eslint-config)](https://www.npmjs.com/package/@schascha/eslint-config)
 
 > Just a custom eslint config
 
@@ -22,7 +23,7 @@ Set your `eslint` config to:
 }
 ```
 
-## Bugs?
+## Bugs? :bug:
 
 Please let me know: https://github.com/Schascha/eslint-config/issues
 
