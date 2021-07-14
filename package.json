@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/Schascha/eslint-config#readme",
   "devDependencies": {
-    "eslint": "^7.19.0"
+    "eslint": "^7.30.0"
   },
   "peerDependencies": {
-    "eslint": "^7.19.0"
+    "eslint": "^7.30.0"
   }
 }
