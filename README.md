@@ -2,6 +2,7 @@
 
 [![Build](https://github.com/Schascha/eslint-config/workflows/Build/badge.svg)](https://github.com/Schascha/eslint-config/actions)
 [![npm](https://img.shields.io/npm/v/@schascha/eslint-config)](https://www.npmjs.com/package/@schascha/eslint-config)
+[![install size](https://packagephobia.com/badge?p=@schascha/eslint-config)](https://packagephobia.com/result?p=@schascha/eslint-config)
 
 > Just a custom eslint config
 
