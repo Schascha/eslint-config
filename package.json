@@ -23,9 +23,11 @@
     "url": "https://github.com/Schascha/eslint-config/issues"
   },
   "homepage": "https://github.com/Schascha/eslint-config#readme",
-  "devDependencies": {
-    "eslint": "^8.1.0",
+  "dependencies": {
     "eslint-config-prettier": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
   },
   "peerDependencies": {
     "eslint": ">=7.0.0"
